@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+}
+.card{
+    display: flex;
+}
+.img{
+    width: 300px;
+}
+.zag{
+    width: 50px;
+}
